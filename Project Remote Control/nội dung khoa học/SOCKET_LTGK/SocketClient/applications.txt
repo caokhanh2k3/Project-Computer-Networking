@@ -1,0 +1,11 @@
+ApplicationFrameHost 18712
+chrome                9764
+javaw                 9516
+javaw                14836
+Notepad              23528
+obs64                 7316
+SystemSettings       17592
+TextInputHost         3444
+WINWORD              14424
+
+
